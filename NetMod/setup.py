@@ -7,5 +7,5 @@ setup(name='NetMod',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['NetMod','NetMod.Architecture','NetMod.Support','NetMod.Data','NetMod.Simulation'],
+      packages=['NetMod','NetMod.Architecture','NetMod.Support','NetMod.Data','NetMod.Simulation','NetMod.Test'],
       zip_safe=False)
